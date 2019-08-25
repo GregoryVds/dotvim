@@ -1,0 +1,24 @@
+[submodule "pack/themes/start/dracula"]
+	path = pack/themes/start/dracula
+	url = https://github.com/dracula/vim
+[submodule "pack/themes/start/gruvbox"]
+	path = pack/themes/start/gruvbox
+	url = https://github.com/morhetz/gruvbox
+[submodule "pack/navigation/start/vim-multiple-cursors"]
+	path = pack/navigation/start/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors
+[submodule "pack/navigation/start/ctrlp"]
+	path = pack/navigation/start/ctrlp
+	url = https://github.com/ctrlpvim/ctrlp.vim
+[submodule "pack/navigation/start/nerdtree"]
+	path = pack/navigation/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "pack/extra/start/vim-hardtime"]
+	path = pack/extra/start/vim-hardtime
+	url = https://github.com/takac/vim-hardtime
+[submodule "pack/coding/start/syntastic"]
+	path = pack/coding/start/syntastic
+	url = https://github.com/vim-syntastic/syntastic
+[submodule "pack/config/start/vim-sensible"]
+	path = pack/config/start/vim-sensible
+	url = https://github.com/tpope/vim-sensible
