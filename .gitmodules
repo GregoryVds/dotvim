@@ -23,5 +23,5 @@
 	path = pack/config/start/vim-sensible
 	url = https://github.com/tpope/vim-sensible
 [submodule "pack/config/start/ycm"]
-	path = pack/config/start/ycm
+	path = pack/coding/start/ycm
 	url = https://github.com/ycm-core/YouCompleteMe
