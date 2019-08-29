@@ -32,4 +32,4 @@ let g:syntastic_sh_shellcheck_args="-x"
 let g:syntastic_sh_shellcheck_exec="/usr/bin/shellcheck"
 let g:syntastic_c_cppcheck_exec="/usr/bin/cppcheck"
 
-let g:hardtime_default_on = 1
+let g:hardtime_default_on = 0
