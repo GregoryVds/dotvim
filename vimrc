@@ -33,3 +33,10 @@ let g:syntastic_sh_shellcheck_exec="/usr/bin/shellcheck"
 let g:syntastic_c_cppcheck_exec="/usr/bin/cppcheck"
 
 let g:hardtime_default_on = 0
+
+let g:go_fmt_command = "goimports"
+
+let g:go_def_mode='gopls'
+let g:go_info_mode='gopls'
+
+" let b:ale_linters = {'go': ['gopls']}

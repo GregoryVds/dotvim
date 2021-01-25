@@ -25,3 +25,12 @@
 [submodule "pack/config/start/ycm"]
 	path = pack/coding/start/ycm
 	url = https://github.com/ycm-core/YouCompleteMe
+[submodule "pack/coding/start/vim-go"]
+	path = pack/coding/start/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "pack/coding/start/Vim-Jinja2-Syntax"]
+	path = pack/coding/start/Vim-Jinja2-Syntax
+	url = https://github.com/lepture/vim-jinja.git
+[submodule "pack/coding/start/vim-jsonnet"]
+	path = pack/coding/start/vim-jsonnet
+	url = https://github.com/google/vim-jsonnet.git
