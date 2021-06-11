@@ -34,3 +34,6 @@
 [submodule "pack/coding/start/vim-jsonnet"]
 	path = pack/coding/start/vim-jsonnet
 	url = https://github.com/google/vim-jsonnet.git
+[submodule "pack/coding/start/vim-shfmt"]
+	path = pack/coding/start/vim-shfmt
+	url = https://github.com/z0mbix/vim-shfmt.git
