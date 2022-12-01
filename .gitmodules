@@ -16,9 +16,6 @@
 [submodule "pack/extra/start/vim-hardtime"]
 	path = pack/extra/start/vim-hardtime
 	url = https://github.com/takac/vim-hardtime
-[submodule "pack/coding/start/syntastic"]
-	path = pack/coding/start/syntastic
-	url = https://github.com/vim-syntastic/syntastic
 [submodule "pack/config/start/vim-sensible"]
 	path = pack/config/start/vim-sensible
 	url = https://github.com/tpope/vim-sensible
