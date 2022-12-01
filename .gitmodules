@@ -37,3 +37,6 @@
 [submodule "pack/coding/start/vim-shfmt"]
 	path = pack/coding/start/vim-shfmt
 	url = https://github.com/z0mbix/vim-shfmt.git
+[submodule "pack/coding/start/vim-yaml-folds"]
+	path = pack/coding/start/vim-yaml-folds
+	url = git@github.com:pedrohdz/vim-yaml-folds.git
