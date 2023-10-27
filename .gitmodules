@@ -34,3 +34,6 @@
 [submodule "pack/coding/start/vim-yaml-folds"]
 	path = pack/coding/start/vim-yaml-folds
 	url = git@github.com:pedrohdz/vim-yaml-folds.git
+[submodule "pack/coding/start/ale"]
+	path = pack/coding/start/ale
+	url = https://github.com/dense-analysis/ale.git
